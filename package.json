@@ -40,5 +40,16 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "mohd aman",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdaman01/ipod-main.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mohdaman01/ipod-main/issues"
+  },
+  "homepage": "https://github.com/Mohdaman01/ipod-main#readme"
 }
