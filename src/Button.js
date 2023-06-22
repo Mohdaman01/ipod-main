@@ -8,7 +8,7 @@ const Buttons = () => {
   const [b, setB] = useState(false);
   const [c, setC] = useState(false);
   const [v, setV] = useState(false);
-  const [d, setD] = useState(false);
+  const [d, setD] = useState(false); 
   const [p, setP] = useState('0');
 
 
